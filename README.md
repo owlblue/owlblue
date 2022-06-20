@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @owlblue
-- 👀 I’m interested in SoftwareEnginnering, Artifical Inteligece for NLP.
+- 👀 I’m interested in SoftwareEnginnering, DevOps, Artifical Inteligece for NLP.
 
 <!---
 owlblue/owlblue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
